@@ -20,4 +20,4 @@ Skills
 Contatos Profissionais  
 Email: ashen.martins@gmail.com  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashcrysis&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashcrysis&theme=cobalt)
