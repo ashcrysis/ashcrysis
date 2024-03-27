@@ -5,8 +5,6 @@ Movida por desafios, quase desenvolvedora de jogos e artista nas horas vagas!
 • Desenvolvendo jogos desde 2020 pelo GameMaker + Unity  
 • Ativamente participando de game jams  
 • Atuação em projetos internacionais  
-• Desenvolvimento de soluções mobile para instituições como o Senai  
-• Vencedora do Grand Prix de Inovação Senai Escolar e Estadual pelo Senai Areias  
 
 Skills  
 🗣️Inglês avançado  
