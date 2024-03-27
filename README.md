@@ -1,4 +1,4 @@
-#Movida por desafios, quase desenvolvedora de jogos e artista nas horas vagas!
+##Movida por desafios, quase desenvolvedora de jogos e artista nas horas vagas!
 
 • +4 anos de experiência em programação
 • Cursando ciências da computação na Estácio 
