@@ -1,21 +1,21 @@
-Movida por desafios, quase desenvolvedora de jogos e artista nas horas vagas!  
+Driven by challenges, almost a game developer and artist on my spare time!  
 
-• +4 anos de experiência em programação  
-• Cursando ciências da computação na Estácio   
-• Desenvolvendo jogos desde 2020 pelo GameMaker + Unity  
-• Ativamente participando de game jams  
-• Atuação em projetos internacionais  
+• +4 years of programming experience  
+• Studying computer science at Estácio  
+• Developing games since 2020 using GameMaker + Unity  
+• Actively participating in game jams  
+• Worked on international projects  
 
-Skills  
-🗣️Inglês avançado  
-🥶C#, Java, Python e Kotlin  
-😶‍🌫️Transformação de dados em larga escala  
-🐉Extração de dados web e automação de processos com Selenium  
+Skills   
+🗣️Advanced English  
+🥶C#, Java, Python and Kotlin   
+😶‍🌫️Large-Scale Data Transformation  
+🐉Web data extraction and process automation with Selenium  
 ☁️Databricks, AWS, Microsoft Server  
 🧊Unity   
 🎮Gamemaker Studio2  
 
-Contatos Profissionais  
+Professional Contact  
 Email: ashen.martins@gmail.com  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashcrysis&theme=tokyonight)
