@@ -8,7 +8,7 @@ Driven by challenges, almost a game developer and artist on my spare time!
 
 Skills   
 🗣️Advanced English  
-🥶C#, Java, Python and Kotlin   
+🥶C#, Java, Python, Kotlin and Ruby   
 😶‍🌫️Large-Scale Data Transformation  
 🐉Web data extraction and process automation with Selenium  
 ☁️Databricks, AWS, Microsoft Server  
