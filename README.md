@@ -1,4 +1,4 @@
-Driven by challenges, almost a game developer and artist on my spare time!  
+Driven by challenges, almost a game developer
 
 • +4 years of programming experience  
 • Studying computer science at Estácio  
