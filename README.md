@@ -39,7 +39,7 @@ Driven by challenges, almost a game developer
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,kotlin,java,cs,unity,gamemakerstudio,godot&perline=11)](https://skillicons.dev)
 
 ---
-![snake gif](https://github.com/ashcrysis/ashcrysis/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ashcrysis/ashcrysis/blob/main/dist/github-contribution-grid-snake.gif)
 <details>
   <summary>GitHub Stats</summary>
 
