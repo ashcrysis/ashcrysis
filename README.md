@@ -8,10 +8,10 @@ Driven by challenges, almost a game developer
 
 Skills   
 🗣️Advanced English  
-🥶C#, Java, Python, Kotlin and Ruby   
+🥶C#, Java, JS, Python, Kotlin and Ruby   
 😶‍🌫️Large-Scale Data Transformation  
 🐉Web data extraction and process automation with Selenium  
-☁️Databricks, AWS, Microsoft Server  
+☁️Databricks, AWS, Microsoft Server, React JS, Ruby on rails  
 🧊Unity   
 🎮Gamemaker Studio2  
 
