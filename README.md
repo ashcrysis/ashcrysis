@@ -1,5 +1,3 @@
-# Ashen Martins
-
 Driven by challenges, almost a game developer
 
 ---
