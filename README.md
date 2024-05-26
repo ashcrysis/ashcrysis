@@ -33,7 +33,7 @@ Driven by challenges, almost a game developer
 ---
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,kotlin,java,cs,unity,gamemakerstudio,godot&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,kotlin,java,cs,ruby,rails,unity,gamemakerstudio,godot&perline=11)](https://skillicons.dev)
 
 ---
 <details>
