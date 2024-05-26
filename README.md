@@ -33,13 +33,11 @@ Driven by challenges, almost a game developer
 - **Email**: [ashen.martins@gmail.com](mailto:ashen.martins@gmail.com)
 
 ---
-
 ### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,kotlin,java,cs,unity,gamemakerstudio,godot&perline=11)](https://skillicons.dev)
 
 ---
-![snake gif](https://github.com/ashcrysis/ashcrysis/blob/main/dist/github-contribution-grid-snake.gif)
 <details>
   <summary>GitHub Stats</summary>
 
