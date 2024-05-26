@@ -22,6 +22,8 @@ jobs:
           github_user_name: ashcrysis
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          theme: dark   # Set the theme to dark mode
+          year_length: 365  # Capture the whole year's contribution
 
       - name: Commit and push changes
         run: |
