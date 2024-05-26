@@ -1,22 +1,48 @@
+# Ashen Martins
+
 Driven by challenges, almost a game developer
 
-• +4 years of programming experience  
-• Studying computer science at Estácio  
-• Developing games since 2020 using GameMaker + Unity  
-• Actively participating in game jams  
-• Worked on international projects  
+---
 
-Skills   
-🗣️Advanced English  
-🥶C#, Java, JS, Python, Kotlin and Ruby   
-😶‍🌫️Large-Scale Data Transformation  
-🐉Web data extraction and process automation with Selenium  
-☁️Databricks, AWS, Microsoft Server, React JS, Ruby on rails  
-🧊Unity   
-🎮Gamemaker Studio2  
+### About Me
 
-Professional Contact  
-Email: ashen.martins@gmail.com  
+- **+4 years of programming experience**
+- **Developing games since 2020 using GameMaker & Unity**
+- **Actively participating in game jams**
+- **Worked on international projects**
+
+---
+
+### Skills
+
+#### Languages & Frameworks
+- 🗣️ **Advanced English**
+- 🥶 **C#, Java, JavaScript, Python, Kotlin, Ruby**
+- 🧊 **Unity, GameMaker Studio 2, Godot**
+- ☁️ **React JS, Ruby on Rails**
+
+#### Tools & Technologies
+- 😶‍🌫️ **Large-Scale Data Transformation**
+- 🐉 **Web Data Extraction and Process Automation with Selenium**
+- ☁️ **Databricks, AWS, Microsoft Server**
+
+---
+
+### Professional Contact
+
+- **Email**: [ashen.martins@gmail.com](mailto:ashen.martins@gmail.com)
+
+---
+
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,kotlin,java,cs,unity,gamemakerstudio,godot&perline=11)](https://skillicons.dev)
+
+---
+
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashcrysis&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashcrysis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashcrysis&theme=tokyonight&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashcrysis&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
