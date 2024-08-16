@@ -41,6 +41,5 @@ Driven by challenges, almost a game developer
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashcrysis&theme=tokyonight)
   [![trophy](https://github-profile-trophy.vercel.app/?username=ashcrysis&theme=tokyonight&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-  [![Ashen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashcrysis&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
