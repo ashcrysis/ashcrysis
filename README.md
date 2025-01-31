@@ -4,10 +4,10 @@ Driven by challenges, almost a game developer
 
 ### About Me
 
-- **+4 years of programming experience**
+- **+5 years of programming experience**
 - **Developing games since 2020 using GameMaker & Unity**
 - **Actively participating in game jams**
-- **Worked on international projects**
+- **Working on international projects**
 
 ---
 
