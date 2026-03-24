@@ -1,5 +1,3 @@
-# 🎮 Game Developer 
-
 ## 📫 Contact
 
 - **Email**: [ashen.martins@gmail.com](mailto:ashen.martins@gmail.com)
