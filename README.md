@@ -1,19 +1,5 @@
 # 🎮 Game Developer 
 
-Driven by challenges, almost a game developer  
-Creating fun, systems-driven games with Unity and GameMaker.
-
----
-
-## 🧠 About Me
-
-- 💻 5+ years of programming experience  
-- 🎮 Developing games since 2020 (Unity, GameMaker)  
-- 🕹️ Active in game jams (Ludum Dare, Brackeys, GMTK)  
-- 🌍 Working on international projects  
-
----
-
 ## 📫 Contact
 
 - **Email**: [ashen.martins@gmail.com](mailto:ashen.martins@gmail.com)
